@@ -1,1 +1,1 @@
-# -MNIST-Fashion-Classification
+This project uses a neural network to classify Fashion MNIST images (28x28 grayscale) into 10 clothing categories. It includes data visualization, model training, evaluation, confusion matrix, and classification report for performance analysis.
